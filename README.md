@@ -21,7 +21,7 @@ This project demonstrates an end-to-end analytics workflow, from dataset creatio
 
 ### **2. Analytics Warehouse & Querying**
 * **Tools:** Google BigQuery (SQL)
-* **Logic:** [View SQL Queries](https://github.com/Damian-Lee25/Tech-Performance.io/blob/master/scripts/table_creation.sql)
+* **Logic:** [View SQL Queries](https://github.com/Damian-Lee25/Tech-Performance.io/tree/master/sql)
 * **Key Action:** Loaded the dataset into BigQuery to enable scalable querying, metric validation, and exploratory analysis of technician performance, repeat visits, and on-time arrivals.
 
 ### **3. Business Intelligence & Visualization**
