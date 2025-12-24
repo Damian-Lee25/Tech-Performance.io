@@ -28,7 +28,7 @@ Without technician-level insight, improvement efforts risk being broad and ineff
 
 The primary dashboard provides a high-level operational snapshot, combining KPI performance with service volume context and technician rankings.
 
-![Primary Performance Dashboard](visuals\primaryvisual.png)
+![Primary Performance Dashboard](/visuals/primaryvisual.png)
 
 **What this view reveals:**
 - Overall performance is anchored by a strong job success rate, but offset by elevated repeat visits
@@ -59,7 +59,7 @@ The focus throughout was on **business relevance**.
 
 To move beyond averages, a scatter plot was used to evaluate the relationship between **Job Success Rate** and **Repeat Visit Rate** at the technician level.
 
-![Technician Performance Trade-Off Scatter Plot](visuals\scatterplotvisuals.png)
+![Technician Performance Trade-Off Scatter Plot](/visuals/scatterplotvisuals.png)
 
 **Key insights from this view:**
 - High success rates do not always correlate with low repeat visits
