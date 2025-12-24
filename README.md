@@ -10,6 +10,26 @@ This project analyzes technician performance for **Apex Field Services**, a fict
 The dashboard highlights three core operational KPIs—**Job Success Rate (82%)**, **Repeat Visit Rate (35%)**, and **On-Time Arrival Rate (53%)**—revealing that while overall job completion is strong, operational inefficiencies remain. Repeat visits and inconsistent punctuality represent meaningful cost drivers and customer experience risks. The analysis focuses on identifying performance trade-offs at the technician level to inform targeted operational improvements.
 
 ---
+## 🛠️ Technical Stack & Project Architecture
+
+This project demonstrates an end-to-end analytics workflow, from dataset creation and preparation to insight-driven visualization designed for operational decision-making.
+
+### **1. Data Preparation & Validation**
+* **Tools:** Python (Pandas, NumPy)
+* **Logic:** [View Cleaning Script (Jupyter Notebook)](INSERT_LINK_TO_YOUR_IPYNB_FILE)
+* **Key Action:** Cleaned and validated a synthetic field operations dataset by standardizing naming conventions, resolving null and conditional fields, and ensuring KPI calculations accurately reflected real-world technician performance scenarios.
+
+### **2. Analytics Warehouse & Querying**
+* **Tools:** Google BigQuery (SQL)
+* **Logic:** [View SQL Queries & Schema](INSERT_LINK_TO_YOUR_SQL_FILE)
+* **Key Action:** Loaded the dataset into BigQuery to enable scalable querying, metric validation, and exploratory analysis of technician performance, repeat visits, and on-time arrivals.
+
+### **3. Business Intelligence & Visualization**
+* **Tools:** Power BI
+* **Logic:** [View Dashboard Screenshots & Insights](INSERT_LINK_TO_YOUR_VISUALS_FOLDER_OR_IMAGES)
+* **Key Action:** Built an executive-facing dashboard focused on operational KPIs, technician performance trade-offs, and repeat visit cost drivers—designed to support performance management and process improvement decisions.
+
+---
 
 ## Business Problem
 
