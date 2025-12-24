@@ -33,7 +33,7 @@ This project demonstrates an end-to-end analytics workflow, from dataset creatio
 
 ## Business Problem
 
-Field service organizations often struggle to balance productivity, quality, and customer satisfaction. Leadership teams typically lack clear visibility into:
+Field service organizations often struggle to balance productivity, quality, and customer satisfaction. Leadership teams typically lack clear visibility into:  
 
 - Which technicians consistently drive repeat visits
 - Where scheduling failures impact on-time performance
@@ -60,6 +60,7 @@ To ensure faster job completion does not come at the expense of quality, technic
 ![Job Type Benchmarks](/visuals/Jobtypebenchmarks.png)
 
 This view separates efficient technicians from those exceeding expected job durations, enabling targeted coaching, scheduling optimization, and more accurate labor forecasting.
+
 ---
 
 ## Methodology
