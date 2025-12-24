@@ -55,6 +55,9 @@ The primary dashboard provides a high-level operational snapshot, combining KPI 
 - Maintenance jobs account for the majority of service volume across cities, amplifying the cost impact of inefficiencies
 - Technician ranking exposes meaningful differences in success, repeat visits, and punctuality that would otherwise be masked by averages
 
+**To ensure faster job completion does not come at the expense of quality, technician job durations were benchmarked against job-type averages.**
+![Job Type Benchmarks](/visuals/Jobtypebenchmarks.png)
+**This view separates efficient technicians from those exceeding expected job durations, enabling targeted coaching, scheduling optimization, and more accurate labor forecasting.**
 ---
 
 ## Methodology
@@ -106,6 +109,7 @@ This visualization supports targeted interventions rather than one-size-fits-all
 
 **To evaluate whether technician performance is improving or degrading over time, week-over-week success rate trends were analyzed at the technician level:**
 ![WoW Job Success Rate](/visuals/WoWlinechart.png)
+**This trend view highlights consistency, volatility, and sustained improvement across technicians—helping operations leaders identify who is stabilizing performance versus who requires intervention.**
 
 ### Results
 - **82% Job Success Rate** indicates solid baseline execution
