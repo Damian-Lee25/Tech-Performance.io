@@ -1,4 +1,4 @@
-# 📊 Field Technician Performance Analysis  
+# 📊 Field Technician Performance Optimization & Benchmarking 
 **Apex Field Services (Fictional Company)**
 
 ---
@@ -103,6 +103,9 @@ This visualization supports targeted interventions rather than one-size-fits-all
 ---
 
 ## Results & Business Recommendations
+
+**To evaluate whether technician performance is improving or degrading over time, week-over-week success rate trends were analyzed at the technician level:**
+![WoW Job Success Rate](/visuals/WoWlinechart.png)
 
 ### Results
 - **82% Job Success Rate** indicates solid baseline execution
