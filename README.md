@@ -16,17 +16,17 @@ This project demonstrates an end-to-end analytics workflow, from dataset creatio
 
 ### **1. Data Preparation & Validation**
 * **Tools:** Python (Pandas, NumPy)
-* **Logic:** [View Cleaning Script (Jupyter Notebook)](INSERT_LINK_TO_YOUR_IPYNB_FILE)
+* **Logic:** [View Cleaning Script (Jupyter Notebook)](https://github.com/Damian-Lee25/Tech-Performance.io/blob/master/notebooks/cleaning.ipynb)
 * **Key Action:** Cleaned and validated a synthetic field operations dataset by standardizing naming conventions, resolving null and conditional fields, and ensuring KPI calculations accurately reflected real-world technician performance scenarios.
 
 ### **2. Analytics Warehouse & Querying**
 * **Tools:** Google BigQuery (SQL)
-* **Logic:** [View SQL Queries & Schema](INSERT_LINK_TO_YOUR_SQL_FILE)
+* **Logic:** [View SQL Queries](https://github.com/Damian-Lee25/Tech-Performance.io/blob/master/scripts/table_creation.sql)
 * **Key Action:** Loaded the dataset into BigQuery to enable scalable querying, metric validation, and exploratory analysis of technician performance, repeat visits, and on-time arrivals.
 
 ### **3. Business Intelligence & Visualization**
 * **Tools:** Power BI
-* **Logic:** [View Dashboard Screenshots & Insights](INSERT_LINK_TO_YOUR_VISUALS_FOLDER_OR_IMAGES)
+* **Logic:** [View Dashboard Screenshots & Insights](https://github.com/Damian-Lee25/Tech-Performance.io/tree/master/visuals)
 * **Key Action:** Built an executive-facing dashboard focused on operational KPIs, technician performance trade-offs, and repeat visit cost drivers—designed to support performance management and process improvement decisions.
 
 ---
