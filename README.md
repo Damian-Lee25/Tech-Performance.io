@@ -28,7 +28,7 @@ Without technician-level insight, improvement efforts risk being broad and ineff
 
 The primary dashboard provides a high-level operational snapshot, combining KPI performance with service volume context and technician rankings.
 
-![Primary Performance Dashboard](primaryvisual.png)
+![Primary Performance Dashboard](visuals\primaryvisual.png)
 
 **What this view reveals:**
 - Overall performance is anchored by a strong job success rate, but offset by elevated repeat visits
@@ -51,7 +51,7 @@ The primary dashboard provides a high-level operational snapshot, combining KPI 
   - Performance trade-off scatter plot
 - Applied reference benchmarks to highlight high- and low-performing segments
 
-The focus throughout was on **business relevance**, not academic metrics.
+The focus throughout was on **business relevance**.
 
 ---
 
@@ -59,7 +59,7 @@ The focus throughout was on **business relevance**, not academic metrics.
 
 To move beyond averages, a scatter plot was used to evaluate the relationship between **Job Success Rate** and **Repeat Visit Rate** at the technician level.
 
-![Technician Performance Trade-Off Scatter Plot](scatterplotvisuals.png)
+![Technician Performance Trade-Off Scatter Plot](visuals\scatterplotvisuals.png)
 
 **Key insights from this view:**
 - High success rates do not always correlate with low repeat visits
@@ -73,7 +73,7 @@ This visualization supports targeted interventions rather than one-size-fits-all
 
 ## Skills Demonstrated
 
-- Power BI (data modeling, DAX, dashboard design)
+- Power BI (data modeling,dashboard design)
 - KPI definition and operational metrics
 - Performance trade-off analysis
 - Data storytelling for non-technical stakeholders
