@@ -55,9 +55,11 @@ The primary dashboard provides a high-level operational snapshot, combining KPI 
 - Maintenance jobs account for the majority of service volume across cities, amplifying the cost impact of inefficiencies
 - Technician ranking exposes meaningful differences in success, repeat visits, and punctuality that would otherwise be masked by averages
 
-**To ensure faster job completion does not come at the expense of quality, technician job durations were benchmarked against job-type averages.**
+To ensure faster job completion does not come at the expense of quality, technician job durations were benchmarked against job-type averages.
+
 ![Job Type Benchmarks](/visuals/Jobtypebenchmarks.png)
-**This view separates efficient technicians from those exceeding expected job durations, enabling targeted coaching, scheduling optimization, and more accurate labor forecasting.**
+
+This view separates efficient technicians from those exceeding expected job durations, enabling targeted coaching, scheduling optimization, and more accurate labor forecasting.
 ---
 
 ## Methodology
