@@ -26,7 +26,7 @@ This project demonstrates an end-to-end analytics workflow, from dataset creatio
 
 ### **3. Business Intelligence & Visualization**
 * **Tools:** Power BI
-* **Logic:** [View Dashboard Screenshots & Insights](https://github.com/Damian-Lee25/Tech-Performance.io/tree/master/visuals)
+* **Logic:** [View Dashboard Screenshots & Insights](https://console.cloudinary.com/app/c-ff3eb44874482df0d6f8dbe15f6711/assets/media_library/folders/cdab5f127e09399e5522efbdb7a68c1c27?view_mode=mosaic)
 * **Key Action:** Built an executive-facing dashboard focused on operational KPIs, technician performance trade-offs, and repeat visit cost drivers—designed to support performance management and process improvement decisions.
 
 ---
