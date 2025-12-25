@@ -48,7 +48,7 @@ Without technician-level insight, improvement efforts risk being broad and ineff
 
 The primary dashboard provides a high-level operational snapshot, combining KPI performance with service volume context and technician rankings.
 
-![Primary Performance Dashboard](/visuals/primaryvisual.png)
+![Primary Performance Dashboard](/visualization/primaryvisual.png)
 
 **What this view reveals:**
 - Overall performance is anchored by a strong job success rate, but offset by elevated repeat visits
@@ -57,7 +57,7 @@ The primary dashboard provides a high-level operational snapshot, combining KPI 
 
 To ensure faster job completion does not come at the expense of quality, technician job durations were benchmarked against job-type averages.
 
-![Job Type Benchmarks](/visuals/Jobtypebenchmarks.png)
+![Job Type Benchmarks](/visualization/Jobtypebenchmarks.png)
 
 This view separates efficient technicians from those exceeding expected job durations, enabling targeted coaching, scheduling optimization, and more accurate labor forecasting.
 
@@ -85,7 +85,7 @@ The focus throughout was on **business relevance**.
 
 To move beyond averages, a scatter plot was used to evaluate the relationship between **Job Success Rate** and **Repeat Visit Rate** at the technician level.
 
-![Technician Performance Trade-Off Scatter Plot](/visuals/scatterplotvisuals.png)
+![Technician Performance Trade-Off Scatter Plot](/visualization/scatterplotvisuals.png)
 
 **Key insights from this view:**
 - High success rates do not always correlate with low repeat visits
@@ -111,7 +111,7 @@ This visualization supports targeted interventions rather than one-size-fits-all
 ## Results & Business Recommendations
 
 **To evaluate whether technician performance is improving or degrading over time, week-over-week success rate trends were analyzed at the technician level:**
-![WoW Job Success Rate](/visuals/WoWlinechart.png)
+![WoW Job Success Rate](/visualization/WoWlinechart.png)
 **This trend view highlights consistency, volatility, and sustained improvement across technicians—helping operations leaders identify who is stabilizing performance versus who requires intervention.**
 
 ### Results
