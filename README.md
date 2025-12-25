@@ -48,7 +48,7 @@ Without technician-level insight, improvement efforts risk being broad and ineff
 
 The primary dashboard provides a high-level operational snapshot, combining KPI performance with service volume context and technician rankings.
 
-![Primary Performance Dashboard](/visualization/primaryvisual.png)
+![Primary Performance Dashboard](https://res.cloudinary.com/ducikqiyg/image/upload/v1766628278/primaryvisual_kxkt9z.png)
 
 **What this view reveals:**
 - Overall performance is anchored by a strong job success rate, but offset by elevated repeat visits
@@ -57,7 +57,7 @@ The primary dashboard provides a high-level operational snapshot, combining KPI 
 
 To ensure faster job completion does not come at the expense of quality, technician job durations were benchmarked against job-type averages.
 
-![Job Type Benchmarks](/visualization/Jobtypebenchmarks.png)
+![Job Type Benchmarks](https://res.cloudinary.com/ducikqiyg/image/upload/v1766628137/Jobtypebenchmarks_qzf55n.png)
 
 This view separates efficient technicians from those exceeding expected job durations, enabling targeted coaching, scheduling optimization, and more accurate labor forecasting.
 
@@ -85,7 +85,7 @@ The focus throughout was on **business relevance**.
 
 To move beyond averages, a scatter plot was used to evaluate the relationship between **Job Success Rate** and **Repeat Visit Rate** at the technician level.
 
-![Technician Performance Trade-Off Scatter Plot](/visualization/scatterplotvisuals.png)
+![Technician Performance Trade-Off Scatter Plot](https://res.cloudinary.com/ducikqiyg/image/upload/v1766628278/scatterplotvisuals_cyyxfv.png)
 
 **Key insights from this view:**
 - High success rates do not always correlate with low repeat visits
