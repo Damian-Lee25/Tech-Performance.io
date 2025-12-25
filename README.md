@@ -16,7 +16,7 @@ This project demonstrates an end-to-end analytics workflow, from dataset creatio
 
 ### **1. Data Preparation & Validation**
 * **Tools:** Python (Pandas, NumPy)
-* **Logic:** [View Cleaning Script (Jupyter Notebook)](https://github.com/Damian-Lee25/Tech-Performance.io/blob/master/notebooks/cleaning.ipynb)
+* **Logic:** [View Cleaning Script (Google Colab)](https://github.com/Damian-Lee25/Tech-Performance.io/blob/master/notebooks/cleaning.ipynb)
 * **Key Action:** Cleaned and validated a synthetic field operations dataset by standardizing naming conventions, resolving null and conditional fields, and ensuring KPI calculations accurately reflected real-world technician performance scenarios.
 
 ### **2. Analytics Warehouse & Querying**
