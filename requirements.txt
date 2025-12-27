@@ -1,0 +1,10 @@
+# Data Manipulation & Cleaning (Google Colab)
+pandas>=2.0.0
+numpy>=1.24.0
+
+# BigQuery Connectivity & Type Mapping
+google-cloud-bigquery>=3.10.0
+db-dtypes>=1.1.0
+
+# Notebook Execution Engine
+ipykernel>=6.23.0
