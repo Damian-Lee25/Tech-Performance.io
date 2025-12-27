@@ -48,7 +48,7 @@ Without technician-level insight, improvement efforts risk being broad and ineff
 
 The primary dashboard provides a high-level operational snapshot, combining KPI performance with service volume context and technician rankings.
 
-![Primary Performance Dashboard](https://res.cloudinary.com/ducikqiyg/image/upload/v1766628278/primaryvisual_kxkt9z.png)
+![Primary Performance Dashboard](https://res.cloudinary.com/ducikqiyg/image/upload/v1766810886/dashboard_oxt2c6.png)
 
 **What this view reveals:**
 - Overall performance is anchored by a strong job success rate, but offset by elevated repeat visits
