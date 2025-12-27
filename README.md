@@ -82,7 +82,7 @@ To ensure faster job completion does not come at the expense of quality, technic
 
 ![Job Type Benchmarks](https://res.cloudinary.com/ducikqiyg/image/upload/v1766817041/Job_Duration_Benchmarks_Show_Clear_Opportunities_for_Technician_Coaching_dwtyfr.png)
 
-This view separates efficient technicians from those exceeding expected job durations, enabling targeted coaching, scheduling optimization, and more accurate labor forecasting.
+This benchmark analysis highlights technician-level efficiency gaps by job type, identifying where job durations exceed expected ranges and where operational interventions can drive performance improvements.
 
 ---
 
