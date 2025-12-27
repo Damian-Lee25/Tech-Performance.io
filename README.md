@@ -80,7 +80,7 @@ and avoid double-aggregation.
 
 To ensure faster job completion does not come at the expense of quality, technician job durations were benchmarked against job-type averages.
 
-![Job Type Benchmarks](https://res.cloudinary.com/ducikqiyg/image/upload/v1766628137/Jobtypebenchmarks_qzf55n.png)
+![Job Type Benchmarks](https://res.cloudinary.com/ducikqiyg/image/upload/v1766817041/Job_Duration_Benchmarks_Show_Clear_Opportunities_for_Technician_Coaching_dwtyfr.png)
 
 This view separates efficient technicians from those exceeding expected job durations, enabling targeted coaching, scheduling optimization, and more accurate labor forecasting.
 
