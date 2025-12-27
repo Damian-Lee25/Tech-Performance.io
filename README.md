@@ -50,6 +50,29 @@ The primary dashboard provides a high-level operational snapshot, combining KPI 
 
 ![Primary Performance Dashboard](https://res.cloudinary.com/ducikqiyg/image/upload/v1766810886/dashboard_oxt2c6.png)
 
+### 📊 Visualization Logic & Data Mapping
+
+All KPIs are calculated on top of a pre-aggregated BigQuery fact table. 
+Power BI measures wrap warehouse outputs to preserve correct filter behavior 
+and avoid double-aggregation.
+
+**Success Rate**
+- Source: `successful_jobs`, `total_jobs`
+- Logic: Sum(successful_jobs) ÷ Sum(total_jobs)
+- Visual: KPI Card
+- Threshold: Green when > 80%
+
+**On-Time Arrival**
+- Source: `on_time_jobs`, `total_jobs`
+- Logic: Sum(on_time_jobs) ÷ Sum(total_jobs)
+- Visual: Donut Chart showing punctuality distribution
+
+**Technician Benchmarking**
+- Axis: `tech_name`
+- Metric: Weighted Average Job Duration (Minutes)
+- Benchmark: Median Constant Line
+- Purpose: Identify technicians exceeding expected job duration norms
+
 **What this view reveals:**
 - Overall performance is anchored by a strong job success rate, but offset by elevated repeat visits
 - Maintenance jobs account for the majority of service volume across cities, amplifying the cost impact of inefficiencies
